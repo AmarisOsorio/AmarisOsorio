@@ -31,6 +31,25 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 --------- CREDITOS -----------
-Credits: [yuebaix](https://github.com/yuebaix)
-Credits:[Aneal07](https://github.com/Aneal07)
+✨ [yuebaix](https://github.com/yuebaix)
+<br>
+✨ [Aneal07](https://github.com/Aneal07)
