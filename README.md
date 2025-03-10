@@ -32,5 +32,5 @@
 
 
 --------- CREDITOS -----------
-[yuebaix](https://github.com/yuebaix)
-[Aneal07](https://github.com/Aneal07)
+Credits: [yuebaix](https://github.com/yuebaix)
+Credits:[Aneal07](https://github.com/Aneal07)
